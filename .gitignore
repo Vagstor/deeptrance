@@ -1,2 +1,7 @@
 .deept_venv
-.git
+.gitgit
+.env
+/orig/
+/translation/
+*.xml
+__pycache__
